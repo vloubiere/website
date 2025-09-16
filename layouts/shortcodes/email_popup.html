@@ -1,0 +1,107 @@
+{{/* Params: user, domain, tld, id (optional), path (optional) */}}
+{{- $u := .Get "user" -}}
+{{- $d := .Get "domain" -}}
+{{- $t := .Get "tld" -}}
+{{- $id := .Get "id" | default (printf "email-%s-%s" $u $d) -}}
+{{- $path := .Get "path" | default "" -}}
+{{- $u64 := base64Encode $u -}}
+{{- $d64 := base64Encode $d -}}
+{{- $t64 := base64Encode $t -}}
+
+<span id="email-data-{{ $id }}" data-a="{{ $u64 }}" data-b="{{ $d64 }}" data-c="{{ $t64 }}" style="display:none"></span>
+
+<style>
+.email-popup-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.35);display:none;align-items:center;justify-content:center;z-index:9999}
+.email-popup{background:#fff;color:#222;border-radius:8px;padding:14px 16px;box-shadow:0 8px 24px rgba(0,0,0,.2);max-width:90%;width:360px;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+.email-popup header{font-weight:600;margin-bottom:8px}
+.email-popup .row{display:flex;gap:8px;align-items:center}
+.email-popup code{background:#f4f4f5;padding:4px 6px;border-radius:4px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;word-break:break-all;flex:1}
+.email-popup .btns{display:flex;gap:8px;justify-content:flex-end;margin-top:10px}
+.email-popup button{padding:6px 10px;border:1px solid #ddd;border-radius:6px;background:#fff;cursor:pointer}
+</style>
+
+<div id="email-popup-backdrop-{{ $id }}" class="email-popup-backdrop" aria-hidden="true">
+  <div class="email-popup" role="dialog" aria-modal="true" aria-labelledby="email-popup-title-{{ $id }}" tabindex="-1">
+    <header id="email-popup-title-{{ $id }}">Contact email</header>
+    <div class="row">
+      <code id="email-popup-text-{{ $id }}">Loading…</code>
+      <button id="email-copy-{{ $id }}" type="button" title="Copy email">Copy</button>
+      <button id="email-close-{{ $id }}" type="button" aria-label="Close">Close</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var trig = '#show-{{ $id }}';
+  var pagePath = {{ if $path }}"{{ $path }}"{{ else }}location.pathname{{ end }};
+  function N(p){ return (p||'').replace(/\/+$/,'/'); }
+  function D(s){ try{ return atob((s||'').replace(/\s+/g,'')); }catch(_){ return ''; } }
+  function J(a,b,c){ // tiny noise: split join to foil naive patterns
+    var parts = [a,'@',b,'.',c];
+    return parts.join('');
+  }
+  function getEmail(){
+    var el = document.getElementById('email-data-{{ $id }}');
+    if(!el) return '';
+    var u = D(el.getAttribute('data-a'));
+    var d = D(el.getAttribute('data-b'));
+    var t = D(el.getAttribute('data-c'));
+    return (u&&d&&t)? J(u,d,t) : '';
+  }
+  function openPopup(){
+    var email = getEmail();
+    var bd = document.getElementById('email-popup-backdrop-{{ $id }}');
+    var txt = document.getElementById('email-popup-text-{{ $id }}');
+    if(!bd||!txt) return;
+    txt.textContent = email || 'Not available';
+    bd.style.display='flex';
+    bd.setAttribute('aria-hidden','false');
+    var dlg = bd.querySelector('.email-popup'); if(dlg) dlg.focus();
+  }
+  function closePopup(){
+    var bd = document.getElementById('email-popup-backdrop-{{ $id }}');
+    if(!bd) return;
+    bd.style.display='none';
+    bd.setAttribute('aria-hidden','true');
+  }
+  window['openPopup_{{ replace $id "-" "_" }}']=openPopup;
+
+  document.addEventListener('click',function(e){
+    var a = e.target.closest('a[href]'); if(!a) return;
+    try{
+      var u = new URL(a.href, location.origin);
+      if(N(u.pathname)===N(pagePath) && u.hash===trig){ e.preventDefault(); openPopup(); }
+    }catch(_){}
+  });
+
+  function checkHash(){
+    if(location.hash===trig && N(location.pathname)===N(pagePath)){
+      openPopup();
+      history.replaceState(null,'',pagePath+location.search);
+    }
+  }
+  window.addEventListener('DOMContentLoaded',checkHash);
+
+  var btnCopy=document.getElementById('email-copy-{{ $id }}');
+  if(btnCopy) btnCopy.addEventListener('click',function(){
+    var email = getEmail();
+    var done = function(){
+      var o=btnCopy.textContent; btnCopy.textContent='Copied!'; setTimeout(function(){btnCopy.textContent=o;},900);
+    };
+    if(email && navigator.clipboard){ navigator.clipboard.writeText(email).then(done).catch(done); }
+    else{
+      var r=document.createRange(); var t=document.getElementById('email-popup-text-{{ $id }}');
+      if(t){ r.selectNodeContents(t); var s=window.getSelection(); s.removeAllRanges(); s.addRange(r); try{ document.execCommand('copy'); }catch(_){} s.removeAllRanges(); }
+      done();
+    }
+  });
+
+  var closeBtn=document.getElementById('email-close-{{ $id }}');
+  if(closeBtn) closeBtn.addEventListener('click', closePopup);
+
+  var bd=document.getElementById('email-popup-backdrop-{{ $id }}');
+  if(bd) bd.addEventListener('click', function(e){ if(e.target===bd) closePopup(); });
+  document.addEventListener('keydown', function(e){ if(e.key==='Escape') closePopup(); });
+})();
+</script>

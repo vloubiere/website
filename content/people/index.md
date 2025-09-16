@@ -42,20 +42,10 @@ sections:
       spacing:
         padding: ['20px', '0', '100px', '0']
 
-  - block: people
+  - block: markdown
     content:
-      title: Alumni
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Alumni
-      sort_by: Params.weight
-      sort_ascending: false
+      text: |
+        {{% cta cta_link="./alumni/" cta_text="Alumni →" %}}
     design:
-      show_interests: false
-      show_role: true
-      show_social: true
-      show_organizations: false
-      spacing:
-        padding: ['20px', '0', '100px', '0']
+      columns: '1'
 ---
