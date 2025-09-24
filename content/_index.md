@@ -30,7 +30,7 @@ sections:
     content:
       title: Research
       text: |
-        We employ a <strong> wide range of molecular and in vivo approaches </strong> — single-cell omics, super-resolution microscopy, CRISPR editing, genomics, and physical modeling — to uncover how the <strong> 3D epigenome establishes and maintains transcriptional programs in development and disease</strong>. Our main research topics include:
+        Our research aims at understanding epigenetic inheritance, namely the information that is <strong> contained in our chromosomes and transmitted to daughter cells and to future generations beyond the sequence of DNA </strong>. We employ a <strong> wide range of molecular and in vivo approaches </strong> — single-cell omics, super-resolution microscopy, CRISPR editing, genomics, and physical modeling — to uncover how the <strong> 3D epigenome in general, and <strong> Polycomb proteins </strong> in particular, can establish and maintains transcriptional programs in development and disease</strong>. Our main research topics include:
 
         <div class="research-flex">
           <div class="research-flex-item left">
@@ -43,23 +43,23 @@ sections:
           </div>
           <div class="research-flex-item center">
             <a href="research/#research_topic_2">
-              <img src="media/fly_TEI.png" alt="Epigenetic inheritance of alternative chromatin states">
+              <img src="media/fly_TEI.png" alt="Role of Polycomb Group Proteins in genome regulation">
               <div class="research-grid-caption">
-                Epigenetic inheritance of alternative chromatin states
+                Role of Polycomb Group Proteins in genome regulation
               </div>
             </a>
           </div>
           <div class="research-flex-item center">
             <a href="research/#research_topic_3">
-              <img src="media/cancer_ED.png" alt="Role of Polycomb Group Proteins in development and cancer">
+              <img src="media/cancer_ED.png" alt="Epigenetic inheritance in development and cancer">
               <div class="research-grid-caption">
-                Polycomb Group Proteins in development and cancer
+                Epigenetic inheritance in development and cancer
               </div>
             </a>
           </div>
           <div class="research-flex-item right">
             <a href="research/#research_topic_4">
-              <img src="media/microscopy.png" alt="Role of Polycomb Group Proteins in development and cancer">
+              <img src="media/microscopy.png" alt="Methods used in our lab">
               <div class="research-grid-caption">
                 Methods used in our lab
               </div>

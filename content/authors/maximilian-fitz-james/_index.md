@@ -5,17 +5,16 @@ title: Maximilian H. Fitz-James
 # Full Name (for SEO)
 first_name: Maximilian H.
 last_name: Fitz-James
-weight: 202507
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Now Group Leader at University of Oxford (Dept. of Biology)
 
 # Organizations/Affiliations
 organizations:
-  - name: 'Now: PI at University of Oxford (Dept. of Biology)'
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,6 +29,9 @@ education: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: external-link-alt
+    icon_pack: fas
+    link: https://www.biology.ox.ac.uk/people/maximilian-fitz-james
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-6084-5887

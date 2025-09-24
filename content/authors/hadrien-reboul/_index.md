@@ -5,14 +5,12 @@ title: Hadrien Reboul
 # Full Name (for SEO)
 first_name: Hadrien  
 last_name: Reboul
-params:
-  weight: 202507
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Researcher
+role: PhD. student
 
 # Organizations/Affiliations
 organizations:

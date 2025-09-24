@@ -5,17 +5,16 @@ title: Victoria Parreno
 # Full Name (for SEO)
 first_name: Victoria
 last_name: Parreno
-weight: 202501
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD. Student
+role: Now Postdoc in the Rodriguez-Fraticelli lab (IRB, Barcelona)
 
 # Organizations/Affiliations
 organizations:
-  - name: 'Now: Postdoc at IRB, Barcelona, spain'
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,9 +29,12 @@ education: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: external-link-alt
+    icon_pack: fas
+    link: https://www.irbbarcelona.org/en/research/quantitative-stem-cell-dynamics
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-6310-0610
+    link: https://orcid.org/0000-0002-6033-8092
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -26,9 +26,10 @@ interests:
   - CNRS silver medal
   - Allianz Foundation price
   - Grand Prix of the Fondation pour la Recherche Médicale
-  - Two advanced ERC grants (2020)
+  - Three advanced ERC grants (2020)
   - Elected member of the French Academy of Sciences (2022)
   - Highly Cited Researcher (Clarivate 2023)
+  - Prix Griffuel of the Fondation ARC for cancer research (2025).
 
 education:
   courses:
@@ -36,10 +37,10 @@ education:
       institution: University of Heidelberg, in the lab of Prof. Renato Paro.
       year: 1995-1999
     - course: PhD in Biology
-      institution: University of Science and Technology (ETH), Zurich. Chromatin structure and function in yeast, with Fritz Thoma & Theo Kolle
+      institution: Swiss Federal Institute of Technology (ETH), Zurich, Fritz Thoma and Theo Koller
       year: 1991-1995
     - course: MSc in Biology
-      institution: University of Parma
+      institution: University of Parma, Italy
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,6 +74,6 @@ user_groups:
 
 {{< email_popup user="giacomo.cavalli" domain="igh.cnrs" tld="fr" id="email-giacomo" path="/website/author/giacomo-cavalli/" >}}
 
-After a PhD at the ETH Zürich (supervision: Fritz Thoma & Theo Koller), Giacomo Cavalli conducted his postdoctoral research at the University of Heidelberg, in the lab of Renato Paro, before establishing his group at the Institute of Human Genetics (IGH, Montpellier, France) in 1999. Since then, he made seminal contributions to the field of epigenetics. Using the fruit fly Drosophila melanogaster, his lab discovered that the epigenetic inheritance of new phenotypes can occur independently of changes to the DNA sequence. His team also showed that the three-dimensional organization of chromosomes is a heritable trait that plays a critical gene-regulatory role. Furthermore, the Cavalli lab identified structural chromosomal domains known as Topologically Associating Domains (TADs) and pioneered research into the tumor-suppressor function of Polycomb Group proteins.
+After a PhD at the ETH Zürich (supervision: Fritz Thoma & Theo Koller), Giacomo Cavalli conducted his postdoctoral research at the University of Heidelberg, in the lab of Renato Paro, before establishing his group at the Institute of Human Genetics (IGH, Montpellier, France) in December 1998. Since then, he made seminal contributions to the field of epigenetics. Using the fruit fly Drosophila melanogaster, his lab discovered that the epigenetic inheritance of new phenotypes can occur independently of changes to the DNA sequence and involves the three-dimensional organization of chromosomes is a heritable trait that plays a critical gene-regulatory role. Furthermore, the Cavalli lab identified structural chromosomal domains known as Topologically Associating Domains (TADs) and pioneered research into the tumor-suppressor function of Polycomb Group proteins, showing that tumors can arise because of epigenetic dysregulation in the absence of driver genetic mutations.
 
-Recognized as a Highly Cited Researcher by Clarivate in 2023, Dr. Cavalli has authored over 130 articles - many of which in influential journals - that have been cited more than 20,000 times. He was the director of the Genome Dynamics department (2007-2010) at IGH and the Director of the Institute itself (2011-2014). He actively organizes major international conferences and serves on the editorial boards of several distinguished journals and institutes.
+Recognized as a Highly Cited Researcher by Clarivate in 2023, Dr. Cavalli has authored over 150 articles - many of which in influential journals - that have been cited more than 25,000 times. He was the director of the Genome Dynamics department (2007-2010) at IGH and the Director of the Institute itself (2011-2014). He actively organizes major international conferences and serves on the editorial boards of several distinguished journals and institutes.

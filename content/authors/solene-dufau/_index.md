@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Solène DUFAU
+title: Solène Dufau
 
 # Full Name (for SEO)
 first_name: Solène
-last_name: DUFAU
+last_name: Dufau
 
 # Is this the primary user of the site?
 superuser: false

@@ -12,16 +12,7 @@ sections:
       text: |
         <h4>
         <p>
-          We are <b>actively looking for an Engineer in computational biology</b> to work on an ERC-funded project.
-          Find more information 
-          <a href="/files/erc_engineer_computational_biology.pdf" target="_blank" rel="noopener">
-          <span style="text-decoration: underline;">here.</span>
-           {{< icon name="external-link-alt" pack="fas" >}}
-          </a>
-        </p>
-        <br>
-        <p>
-          <b> Interested in joining for a PhD or a Postdoc? </b> Reach out with your CV and a few lines about what you’d like to explore — we’re always happy to discuss ideas!
+          Interested in joining for a <b> PhD, a Postdoc or a lab Engineer position? </b> Reach out with your CV and a few lines about what you’d like to explore — we’re always happy to discuss ideas!
         </p>
         </h4>
     design:

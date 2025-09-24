@@ -5,17 +5,16 @@ title: Ivana Jerković
 # Full Name (for SEO)
 first_name: Ivana 
 last_name: Jerković
-weight: 202503
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Now Postdoc at Collège de France, Paris
 
 # Organizations/Affiliations
 organizations:
-  - name: 'Now: Postdoc at Collège de France, Paris'
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,6 +29,9 @@ education: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: external-link-alt
+    icon_pack: fas
+    link: https://www.college-de-france.fr/en
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-9707-8303    

@@ -5,13 +5,12 @@ title: Michael-Florian Szalay
 # Full Name (for SEO)
 first_name: Michael-Florian
 last_name: Szalay
-weight: 202502
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD. Student
+role: PhD. student
 
 # Organizations/Affiliations
 organizations:

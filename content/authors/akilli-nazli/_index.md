@@ -5,7 +5,6 @@ title: Akilli Nazli
 # Full Name (for SEO)
 first_name: Akilli  
 last_name: Nazli
-weight: 202506
 
 # Is this the primary user of the site?
 superuser: false

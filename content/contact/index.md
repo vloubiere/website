@@ -16,7 +16,7 @@ sections:
           </a>
         </p>
       email: test@example.org
-      phone: +33 4 34 35 99 70
+      phone: +33 4 34 35 99 68
       address:
         street: 141 Rue de la Cardonille 
         city: Montpellier
@@ -49,22 +49,4 @@ sections:
     design:
       columns: '1'
       css_class: contact-page
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      css_class: fullscreen
 ---

@@ -5,13 +5,12 @@ title: Sandrine Denaud
 # Full Name (for SEO)
 first_name: Sandrine
 last_name: Denaud
-weight: 202501
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD. Student
+role: PhD. student
 
 # Organizations/Affiliations
 organizations:

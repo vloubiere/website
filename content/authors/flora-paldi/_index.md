@@ -6,7 +6,6 @@ slug: flora-paldi
 # Full Name (for SEO)
 first_name: Flora 
 last_name: Paldi
-weight: 202508
 
 # Is this the primary user of the site?
 superuser: false

@@ -5,17 +5,16 @@ title: Giorgio L. Papadopoulos
 # Full Name (for SEO)
 first_name: Giorgio L.  
 last_name: Papadopoulos
-weight: 202401
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Bioinformatician Postdoc
+role: "Now: facility member at IMBB_FoRTH"
 
 # Organizations/Affiliations
 organizations:
-  - name: "Now: Facility member at IMBB_FoRTH"
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,6 +29,9 @@ education: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: external-link-alt
+    icon_pack: fas
+    link: https://imbb.forth.gr/en/research/member-Giorgio-Papadopoulos.355/&uid=84&tab=141
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-0199-0256
@@ -49,5 +51,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoc
+  - Bio-info
 ---
