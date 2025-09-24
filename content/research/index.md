@@ -126,7 +126,7 @@ sections:
             </p>
           </div>
           <figure class="research-grid-figure">
-            <img src="../media/SuperResolution_QS.jpg" alt="Polycomb pathway schematic">
+            <img src="../media/SuperResolution_QS.jpg" alt="Nucleus microscopy">
             <figcaption>Super-resolution microscopy image of a cell nucleus (left) and insets showing individual TADs (right). Szabo et al., Nature genetics, 2022.</figcaption>
           </figure>
         </div>
