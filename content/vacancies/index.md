@@ -12,7 +12,7 @@ sections:
       text: |
         <h4>
         <p>
-          Interested in joining for a <b> PhD, a Postdoc or a lab Engineer position? </b> Reach out with your CV and a few lines about what you’d like to explore — we’re always happy to discuss ideas!
+          Interested in joining for a <b> PhD, a Postdoc or a lab Engineer position? Reach out with your CV and a few lines about what you’d like to explore </b>— we’re always happy to discuss ideas!
         </p>
         </h4>
     design:
