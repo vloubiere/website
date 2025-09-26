@@ -15,7 +15,7 @@ sections:
             <i class="fas fa-external-link-alt"></i> Institute Website
           </a>
         </p>
-      email: test@example.org
+      email: See the 'People' page (top menu, third item)
       phone: +33 4 34 35 99 68
       address:
         street: 141 Rue de la Cardonille 
@@ -36,16 +36,8 @@ sections:
       #    link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      autolink: false
+
     design:
       columns: '1'
       css_class: contact-page
