@@ -34,12 +34,41 @@ sections:
     design:
       spacing:
         padding: ['20px','0','40px','0']
-        
+
   - block: markdown
     content:
       title:
       text: |
-        <h2 id="research_topic_2" class="anchor-target">WaddingtonMemory: Deciphering the role of regulatory factors driving epigenetic inheritance of alternative chromatin states</h2>
+        <h2 id="research_topic_2" class="anchor-target">Role of Polycomb Group Proteins in genome regulation</h2>
+        <div class="research-grid">
+          <div class="research-grid-text">
+            <p>
+            Polycomb group (PcG) and trithorax group (trxG) proteins are key regulators of the expression of major developmental genes. PcG proteins are able to silence gene expression, while trxG proteins counteract gene silencing in the appropriate cells. The current model to explain PcG recruitment in <i> Drosophila</i>, proposes that a sequence-specific DNA binding proteins, the best studied of which is called PHO, bind at so-called Polycomb response elements (PREs). PHO might recruit the PcG complexes PRC1 and PRC2. PRC2 complexes contain the core subunit E(z), a histone methyltransferase that trimethylates histone H3 lysine 27 (H3K27me3), Su(z)12, Esc and Nurf55. H3K27me3 is, in turn, recognized by the chromo domain of the PC subunits of PRC1, which also contains Ph, PSC and Sce/dRing. On the other hand, PRC1 is actually a family with various canonical and variant complexes, that have in common a catalytic activity carried out by the dRing protein, that can ubiquitylate the K119 of histone H2A, a mark that is recognized by a specific subset of the PRC2 complexes. Mammalian PcG components are recruited to DNA unmethylated CpG islands and, once recruited, set up a similar maintenance system. Therefore, this pathway forms a self-sustaining silencing loop, such that once recruited, PcG complexes can propagate silencing through cell division. Genome-wide mapping studies have shown that PcG target genes encode for components controlling major signalling pathways and, importantly, PcG misexpression has also been associated with many cancer types, including breast and prostate cancer.
+            </p>
+            <p>
+            In addition to their role in cellular memory, PcG proteins participate in dynamic gene regulatory processes. In flies, different cell lines have a partially different set of PcG bound sites and H3K27me3-marked genomic regions change during development. In mammalian embryonic stem cells, many PcG target genes have been reported to bear both repression- and activation-associated marks. Upon differentiation, these “bivalent states” are resolved into fully active or fully repressed. In some instances, PcG components may even activate transcription, although it is unclear how widespread this phenomenon is. Importantly, PcG proteins regulate the organization of their target genes in the three-dimensional space of the nucleus, and this regulatory function is involved in the maintenance of cellular memory.
+            </p>
+            <p>
+            We would like to understand the molecular mechanisms of action of these factors, the role of regulation of higher order chromatin structure and nuclear organization in gene expression, and the molecular mechanisms at the base of this processes. In particular, our research aims at (1) understanding, on a genome-wide scale, how these proteins are targeted to DNA and what are the consequences of this targeting on chromatin structure; (2) understanding the effect of PcG proteins on cell proliferation, cell differentiation and cell polarity, and dissecting the key components regulated by PcG proteins to modulate these pathways in specific tissues and developmental processes; (3) identifying the rules governing the distribution of their target genes in the cell nucleus and the effect of this organization on gene expression.
+            </p>
+          </div>
+          <figure class="research-grid-figure">
+            <img src="../media/FULL_ED.png" alt="Polycomb pathway schematic">
+            <figcaption>Polycomb-mediated cancers in the developing eye-antennal imaginal disc of <em>Drosophila</em>.</figcaption>
+            <div class="video-container">
+              <iframe src="https://www.youtube.com/embed/82G_T_3kHKk" frameborder="0" allowfullscreen title="Cavalli Lab Research Video"></iframe>
+            </div>
+          </figure>
+        </div>
+    design:
+      spacing:
+        padding: ['40px','0','80px','0']
+
+  - block: markdown
+    content:
+      title:
+      text: |
+        <h2 id="research_topic_3" class="anchor-target">WaddingtonMemory: Deciphering the role of regulatory factors driving epigenetic inheritance of alternative chromatin states</h2>
         <div class="research-grid">
           <div class="research-grid-text">
             <p>
@@ -72,35 +101,6 @@ sections:
     design:
       spacing:
         padding: ['20px', '0', '40px', '0']
-
-  - block: markdown
-    content:
-      title:
-      text: |
-        <h2 id="research_topic_3" class="anchor-target">Mechanisms of Polycomb-mediated genome regulation</h2>
-        <div class="research-grid">
-          <div class="research-grid-text">
-            <p>
-            Polycomb group (PcG) and trithorax group (trxG) proteins are key regulators of the expression of major developmental genes. PcG proteins are able to silence gene expression, while trxG proteins counteract gene silencing in the appropriate cells. The current model to explain PcG recruitment in <i> Drosophila</i>, proposes that a sequence-specific DNA binding proteins, the best studied of which is called PHO, bind at so-called Polycomb response elements (PREs). PHO might recruit the PcG complexes PRC1 and PRC2. PRC2 complexes contain the core subunit E(z), a histone methyltransferase that trimethylates histone H3 lysine 27 (H3K27me3), Su(z)12, Esc and Nurf55. H3K27me3 is, in turn, recognized by the chromo domain of the PC subunits of PRC1, which also contains Ph, PSC and Sce/dRing. On the other hand, PRC1 is actually a family with various canonical and variant complexes, that have in common a catalytic activity carried out by the dRing protein, that can ubiquitylate the K119 of histone H2A, a mark that is recognized by a specific subset of the PRC2 complexes. Mammalian PcG components are recruited to DNA unmethylated CpG islands and, once recruited, set up a similar maintenance system. Therefore, this pathway forms a self-sustaining silencing loop, such that once recruited, PcG complexes can propagate silencing through cell division. Genome-wide mapping studies have shown that PcG target genes encode for components controlling major signalling pathways and, importantly, PcG misexpression has also been associated with many cancer types, including breast and prostate cancer.
-            </p>
-            <p>
-            In addition to their role in cellular memory, PcG proteins participate in dynamic gene regulatory processes. In flies, different cell lines have a partially different set of PcG bound sites and H3K27me3-marked genomic regions change during development. In mammalian embryonic stem cells, many PcG target genes have been reported to bear both repression- and activation-associated marks. Upon differentiation, these “bivalent states” are resolved into fully active or fully repressed. In some instances, PcG components may even activate transcription, although it is unclear how widespread this phenomenon is. Importantly, PcG proteins regulate the organization of their target genes in the three-dimensional space of the nucleus, and this regulatory function is involved in the maintenance of cellular memory.
-            </p>
-            <p>
-            We would like to understand the molecular mechanisms of action of these factors, the role of regulation of higher order chromatin structure and nuclear organization in gene expression, and the molecular mechanisms at the base of this processes. In particular, our research aims at (1) understanding, on a genome-wide scale, how these proteins are targeted to DNA and what are the consequences of this targeting on chromatin structure; (2) understanding the effect of PcG proteins on cell proliferation, cell differentiation and cell polarity, and dissecting the key components regulated by PcG proteins to modulate these pathways in specific tissues and developmental processes; (3) identifying the rules governing the distribution of their target genes in the cell nucleus and the effect of this organization on gene expression.
-            </p>
-          </div>
-          <figure class="research-grid-figure">
-            <img src="../media/FULL_ED.png" alt="Polycomb pathway schematic">
-            <figcaption>Polycomb-mediated cancers in the developing eye-antennal imaginal disc of <em>Drosophila</em>.</figcaption>
-            <div class="video-container">
-              <iframe src="https://www.youtube.com/embed/82G_T_3kHKk" frameborder="0" allowfullscreen title="Cavalli Lab Research Video"></iframe>
-            </div>
-          </figure>
-        </div>
-    design:
-      spacing:
-        padding: ['40px','0','80px','0']
 
   - block: markdown
     content:

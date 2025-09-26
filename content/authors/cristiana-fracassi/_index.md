@@ -32,10 +32,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-3329-3228
-    
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: "/website/author/cristiana-fracassi/#show-email-cristiana"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -54,3 +53,5 @@ highlight_name: false
 user_groups:
   - Current members
 ---
+
+{{< email_popup user="cristiana.fracassi" domain="igh.cnrs" tld="fr" id="email-cristiana" path="/website/author/cristiana-fracassi/" >}}

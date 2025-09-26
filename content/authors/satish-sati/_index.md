@@ -10,7 +10,7 @@ last_name: Sati
 superuser: false
 
 # Role/position
-role: Now Postdoc at Leung lab (UPenn, Philadelphia)
+role: Now Senior Scientist, Department of Computational Biology, St Jude Children's Research Hospital
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education: ''
 social:
   - icon: external-link-alt
     icon_pack: fas
-    link: https://www.thomasleunglab.org/satishsati
+    link: https://www.stjude.org/research/labs/abraham-lab/abraham-lab-team.html
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-1650-6327

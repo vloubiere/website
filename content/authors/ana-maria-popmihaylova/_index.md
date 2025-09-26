@@ -34,7 +34,7 @@ social:
     link: https://orcid.org/0000-0001-5081-4326
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: "/website/author/ana-maria-popmihaylova/#show-email-ana-maria"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,3 +53,5 @@ highlight_name: false
 user_groups:
   - Current members
 ---
+
+{{< email_popup user="ana-maria.popmihaylova" domain="igh.cnrs" tld="fr" id="email-ana-maria" path="/website/author/ana-maria-popmihaylova/" >}}

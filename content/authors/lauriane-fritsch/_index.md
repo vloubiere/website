@@ -34,7 +34,7 @@ social:
     link: https://orcid.org/0009-0008-7769-1184
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: "/website/author/lauriane-fritsch/#show-email-lauriane"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,3 +53,5 @@ highlight_name: false
 user_groups:
   - Current members
 ---
+
+{{< email_popup user="lauriane.fritsch" domain="igh.cnrs" tld="fr" id="email-lauriane" path="/website/author/lauriane-fritsch/" >}}

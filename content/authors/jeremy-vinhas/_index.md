@@ -31,7 +31,7 @@ education: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: "/website/author/jeremy-vinhas/#show-email-jeremy"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -50,3 +50,5 @@ highlight_name: false
 user_groups:
   - Current members
 ---
+
+{{< email_popup user="jeremy.vinhas" domain="igh.cnrs" tld="fr" id="email-jeremy" path="/website/author/jeremy-vinhas/" >}}
