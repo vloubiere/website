@@ -25,7 +25,9 @@ sections:
           <div class="research-grid-figure">
             <div class="video-container">
               <iframe src="https://www.youtube.com/embed/Pl44JjA--2k?start=1" frameborder="0" allowfullscreen title="Cavalli Lab Research Video"></iframe>
-            </div> <br>
+            </div>
+            <figcaption>A documentary-style video on genome organization by the Cavalli lab.</figcaption>
+            <br>
             <div class="video-container">
               <iframe src="https://www.youtube.com/embed/JYDrtCuRKVM" frameborder="0" allowfullscreen title="Cavalli Lab Research Video"></iframe>
             </div>
