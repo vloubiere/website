@@ -43,7 +43,7 @@ sections:
           </div>
           <div class="research-flex-item center">
             <a href="research/#research_topic_2">
-              <img src="media/fly_TEI.png" alt="Role of Polycomb Group Proteins in genome regulation">
+              <img src="media/EB_fly.png" alt="Role of Polycomb Group Proteins in genome regulation">
               <div class="research-grid-caption">
                 Role of Polycomb Group Proteins in genome regulation
               </div>

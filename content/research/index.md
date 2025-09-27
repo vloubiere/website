@@ -29,6 +29,7 @@ sections:
             <div class="video-container">
               <iframe src="https://www.youtube.com/embed/JYDrtCuRKVM" frameborder="0" allowfullscreen title="Cavalli Lab Research Video"></iframe>
             </div>
+            <figcaption>Results described in Bonev et al., <i>Cell</i>, 2017.</figcaption>
           </div>
         </div>
     design:
@@ -53,8 +54,8 @@ sections:
             </p>
           </div>
           <figure class="research-grid-figure">
-            <img src="../media/FULL_ED.png" alt="Polycomb pathway schematic">
-            <figcaption>Polycomb-mediated cancers in the developing eye-antennal imaginal disc of <em>Drosophila</em>.</figcaption>
+            <img src="../media/figure_denaud.png" alt="Polycomb pathway schematic">
+            <figcaption>Figure from Denaud et al., <i>Nature Structural & Molecular Biology</i>, 2024. <br> Top: Hi-C score maps of the <i>dachshund</i> (<i>dac</i>) locus in 3rd instar imaginal leg disc in WT (left) or ΔRE (right) <i>Drosophila</i>. A black circle indicates the position of the chromatin loop between the <i>daschund</i> PREs. PREs and and promoter positions are indicated on the bottom. Bottom: DAC immunostaining in WT larval 3rd larval instar (left) or early pupal imaginal leg discs (right). Scale bar= 30 μm. </figcaption>
           </figure>
         </div>
     design:
@@ -93,9 +94,9 @@ sections:
           <figure class="research-grid-figure">
             <div class="video-container">
               <iframe src="https://www.youtube.com/embed/82G_T_3kHKk" frameborder="0" allowfullscreen title="Cavalli Lab Research Video"></iframe>
-            </div> <br> <br>
+            </div> <br>
             <img src="../media/Waddington.png" alt="Waddington landscape">
-            <figcaption>Transient PcG perturbation triggers an irreversible  switch to a cancer cell fate.</figcaption>
+            <figcaption>See Parreno*, Loubiere* et al., <i>Nature</i>, 2024. <br> Transient PcG perturbation triggers an irreversible  switch to a cancer cell fate. Resulting cancers maintain persistent transcriptional changes supported by the STAT92E activator and the ZFH1 repressor.</figcaption>
           </figure>
         </div>
     design:
@@ -127,7 +128,7 @@ sections:
           </div>
           <figure class="research-grid-figure">
             <img src="../media/SuperResolution_QS.jpg" alt="Nucleus microscopy">
-            <figcaption>Super-resolution microscopy image of a cell nucleus (left) and insets showing individual TADs (right). Szabo et al., Nature genetics, 2022.</figcaption>
+            <figcaption>Figure from Szabo et al., <i>Nature genetics</i>, 2022. Super-resolution microscopy image of a cell nucleus (left) and insets showing individual TADs (right).</figcaption>
           </figure>
         </div>
     design:
