@@ -15,7 +15,7 @@ sections:
             <i class="fas fa-external-link-alt"></i> Institute Website
           </a>
         </p>
-      email: See the 'People' page (top menu, third item)
+      email: For emails, see the 'People' page (top menu, third item)
       phone: +33 4 34 35 99 68
       address:
         street: 141 Rue de la Cardonille 
