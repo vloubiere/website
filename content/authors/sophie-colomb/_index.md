@@ -10,7 +10,7 @@ last_name: Colomb
 superuser: false
 
 # Role/position
-role: PhD student
+role: Now hospital practitioner, University Hospital (CHU) of Montpellier
 
 # Organizations/Affiliations
 organizations:
