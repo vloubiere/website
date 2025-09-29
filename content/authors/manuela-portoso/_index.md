@@ -10,7 +10,7 @@ last_name: Portoso
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Now Associate Director, Clinical Research Manager (Merck & Co / MSD, Milan)
 
 # Organizations/Affiliations
 organizations:

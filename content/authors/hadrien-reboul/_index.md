@@ -10,7 +10,7 @@ last_name: Reboul
 superuser: false
 
 # Role/position
-role: PhD. student
+role: Now Head clinician, CHU Toulouse
 
 # Organizations/Affiliations
 organizations:

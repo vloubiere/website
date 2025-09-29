@@ -10,7 +10,7 @@ last_name: Szalay
 superuser: false
 
 # Role/position
-role: PhD. student
+role: Now senior research engineer (Cladart lab, Institut Cochin, Paris)
 
 # Organizations/Affiliations
 organizations:

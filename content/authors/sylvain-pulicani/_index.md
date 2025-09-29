@@ -10,7 +10,7 @@ last_name: Pulicani
 superuser: false
 
 # Role/position
-role: PhD student
+role: Now computational biologist (Cellectis SA, Paris)
 
 # Organizations/Affiliations
 organizations:

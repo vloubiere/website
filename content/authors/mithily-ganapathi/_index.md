@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Mithilly Ganapathi
+title: Mithily Ganapathi
 
 # Full Name (for SEO)
-first_name: Mithilly  
+first_name: Mithily  
 last_name: Ganapathi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Now Associate Professor (Columbia University, New York)
 
 # Organizations/Affiliations
 organizations:

@@ -31,7 +31,9 @@ sections:
             <div class="video-container">
               <iframe src="https://www.youtube.com/embed/JYDrtCuRKVM" frameborder="0" allowfullscreen title="Cavalli Lab Research Video"></iframe>
             </div>
-            <figcaption>Results described in Bonev et al., <i>Cell</i>, 2017.</figcaption>
+            <figcaption>
+            Results described in Bonev et al., <i>Cell</i>, 2017 (PMID: 29053968).
+            </figcaption>
           </div>
         </div>
     design:
@@ -57,7 +59,9 @@ sections:
           </div>
           <figure class="research-grid-figure">
             <img src="../media/figure_denaud.png" alt="Polycomb pathway schematic">
-            <figcaption>Figure from Denaud et al., <i>Nature Structural & Molecular Biology</i>, 2024. <br> Top: Hi-C score maps of the <i>dachshund</i> (<i>dac</i>) locus in 3rd instar imaginal leg disc in WT (left) or ΔRE (right) <i>Drosophila</i>. A black circle indicates the position of the chromatin loop between the <i>daschund</i> PREs. PREs and and promoter positions are indicated on the bottom. Bottom: DAC immunostaining in WT larval 3rd larval instar (left) or early pupal imaginal leg discs (right). Scale bar= 30 μm. </figcaption>
+            <figcaption>
+            Figure from Denaud et al., <i>Nature Structural & Molecular Biology</i>, 2024 (PMID: 39152239). <br> Top: Hi-C score maps of the <i>dachshund</i> (<i>dac</i>) locus in 3rd instar imaginal leg disc in WT (left) or ΔRE (right) <i>Drosophila</i>. A black circle indicates the position of the chromatin loop between the <i>daschund</i> PREs. PREs and and promoter positions are indicated on the bottom. Bottom: DAC immunostaining in WT larval 3rd larval instar (left) or early pupal imaginal leg discs (right). Scale bar= 30 μm.
+            </figcaption>
           </figure>
         </div>
     design:
@@ -98,7 +102,9 @@ sections:
               <iframe src="https://www.youtube.com/embed/82G_T_3kHKk" frameborder="0" allowfullscreen title="Cavalli Lab Research Video"></iframe>
             </div> <br>
             <img src="../media/Waddington.png" alt="Waddington landscape">
-            <figcaption>See Parreno*, Loubiere* et al., <i>Nature</i>, 2024. <br> Transient PcG perturbation triggers an irreversible  switch to a cancer cell fate. Resulting cancers maintain persistent transcriptional changes supported by the STAT92E activator and the ZFH1 repressor.</figcaption>
+            <figcaption>
+            See Parreno*, Loubiere* et al., <i>Nature</i>, 2024 (PMID: 38658752). <br> Transient PcG perturbation triggers an irreversible  switch to a cancer cell fate. Resulting cancers maintain persistent transcriptional changes supported by the STAT92E activator and the ZFH1 repressor.
+            </figcaption>
           </figure>
         </div>
     design:
@@ -108,7 +114,7 @@ sections:
   - block: markdown
     content:
       title:
-      text: 
+      text: |
         <h2 id="research_topic_4" class="anchor-target">Methods used in our lab</h2>
         <div class="research-grid">
           <div class="research-grid-text">
@@ -130,7 +136,9 @@ sections:
           </div>
           <figure class="research-grid-figure">
             <img src="../media/SuperResolution_QS.jpg" alt="Nucleus microscopy">
-            <figcaption>Figure from Szabo et al., <i>Nature genetics</i>, 2022. Super-resolution microscopy image of a cell nucleus (left) and insets showing individual TADs (right).</figcaption>
+            <figcaption>
+            Figure from Szabo et al., <i>Nature genetics</i>, 2020 (PMID: 33077913). Super-resolution microscopy image of a cell nucleus (left) and insets showing individual TADs (right).
+            </figcaption>
           </figure>
         </div>
     design:

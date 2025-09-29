@@ -10,7 +10,7 @@ last_name: Lavrov
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Now Senior Researcher (Kurchatov institute, Moscow)
 
 # Organizations/Affiliations
 organizations:

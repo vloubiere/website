@@ -10,7 +10,7 @@ last_name: Stadelmeyer
 superuser: false
 
 # Role/position
-role: PhD. student
+role: Now Data Scientist (Centre Léon Bérard, Lyon)
 
 # Organizations/Affiliations
 organizations:

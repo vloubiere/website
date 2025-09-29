@@ -10,7 +10,7 @@ last_name: Carrivain
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Now Research Engineer (SED, INRIA Lyon)
 
 # Organizations/Affiliations
 organizations:

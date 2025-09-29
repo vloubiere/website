@@ -10,7 +10,7 @@ last_name: Delest
 superuser: false
 
 # Role/position
-role: PhD. student
+role: Now Field Application Scientist - Human Identification, (Thermo Fisher Scientific)
 
 # Organizations/Affiliations
 organizations:

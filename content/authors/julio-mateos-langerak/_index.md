@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Julio Matteos-Langerak
+title: Julio Mateos-Langerak
 
 # Full Name (for SEO)
 first_name: Julio    
-last_name: Matteos-Langerak
+last_name: Mateos-Langerak
 
 # Is this the primary user of the site?
 superuser: false

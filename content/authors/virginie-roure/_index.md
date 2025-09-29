@@ -9,7 +9,7 @@ last_name: Roure
 superuser: false
 
 # Role/position
-role: PhD student
+role: Now Research Team leader (Evotec SE, Toulouse)
 
 # Organizations/Affiliations
 organizations:
