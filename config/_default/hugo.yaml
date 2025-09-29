@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: lab # Website name
-baseURL: 'https://vloubiere.github.io/website/' # Website URL
+baseURL: 'https://cavalli-lab.org/' # Website URL
 
 ############################
 ## LANGUAGE
