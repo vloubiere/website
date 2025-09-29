@@ -34,7 +34,7 @@ social:
     link: https://orcid.org/0000-0002-7051-6219
   - icon: envelope
     icon_pack: fas
-    link: "/website/author/thierry-cheutin/#show-email-thierry"
+    link: "/author/thierry-cheutin/#show-email-thierry"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -54,4 +54,4 @@ user_groups:
   - Current members
 ---
 
-{{< email_popup user="thierry.cheutin" domain="igh.cnrs" tld="fr" id="email-thierry" path="/website/author/thierry-cheutin/" >}}
+{{< email_popup user="thierry.cheutin" domain="igh.cnrs" tld="fr" id="email-thierry" path="/author/thierry-cheutin/" >}}
