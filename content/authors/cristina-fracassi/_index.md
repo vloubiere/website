@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Cristiana Fracassi
+title: Cristina Fracassi
 
 # Full Name (for SEO)
-first_name: Cristiana
+first_name: Cristina
 last_name: Fracassi
 
 # Is this the primary user of the site?
@@ -34,7 +34,7 @@ social:
     link: https://orcid.org/0000-0003-3329-3228
   - icon: envelope
     icon_pack: fas
-    link: "/author/cristiana-fracassi/#show-email-cristiana"
+    link: "/author/cristina-fracassi/#show-email-cristina"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -54,4 +54,4 @@ user_groups:
   - Current members
 ---
 
-{{< email_popup user="cristiana.fracassi" domain="igh.cnrs" tld="fr" id="email-cristiana" path="/author/cristiana-fracassi/" >}}
+{{< email_popup user="cristina.fracassi" domain="igh.cnrs" tld="fr" id="email-cristina" path="/author/cristina-fracassi/" >}}
