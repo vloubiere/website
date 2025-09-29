@@ -45,7 +45,7 @@ sections:
   - block: markdown
     content:
       text: |
-        {{% cta cta_link="/website/alumni/" cta_text="Alumni →" %}}
+        {{% cta cta_link="/alumni/" cta_text="Alumni →" %}}
     design:
       columns: '1'
 ---
