@@ -34,7 +34,7 @@ social:
     link: https://orcid.org/0000-0001-6195-4754
   - icon: envelope
     icon_pack: fas
-    link: "/website/author/marco-di-stefano/#show-email-marco"
+    link: "/author/marco-di-stefano/#show-email-marco"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -54,4 +54,4 @@ user_groups:
   - Current members
 ---
 
-{{< email_popup user="marco.di-stefano" domain="igh.cnrs" tld="fr" id="email-marco" path="/website/author/marco-di-stefano/" >}}
+{{< email_popup user="marco.di-stefano" domain="igh.cnrs" tld="fr" id="email-marco" path="/author/marco-di-stefano/" >}}

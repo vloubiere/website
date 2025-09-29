@@ -35,7 +35,7 @@ social:
     link: https://orcid.org/0000-0003-4063-7324
   - icon: envelope
     icon_pack: fas
-    link: "/website/author/frederic-bantignies/#show-email-fred"
+    link: "/author/frederic-bantignies/#show-email-fred"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -55,4 +55,4 @@ user_groups:
   - Current members
 ---
 
-{{< email_popup user="frederic.bantignies" domain="igh.cnrs" tld="fr" id="email-fred" path="/website/author/frederic-bantignies/" >}}
+{{< email_popup user="frederic.bantignies" domain="igh.cnrs" tld="fr" id="email-fred" path="/author/frederic-bantignies/" >}}

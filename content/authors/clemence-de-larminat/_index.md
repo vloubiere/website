@@ -31,7 +31,7 @@ education: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link:  "/website/author/clemence-de-larminat/#show-email-clemence"
+    link:  "/author/clemence-de-larminat/#show-email-clemence"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -51,4 +51,4 @@ user_groups:
   - Current members
 ---
 
-{{< email_popup user="clemence.delarminat" domain="igh.cnrs" tld="fr" id="email-clemence" path="/website/author/clemence-de-larminat/" >}}
+{{< email_popup user="clemence.delarminat" domain="igh.cnrs" tld="fr" id="email-clemence" path="/author/clemence-de-larminat/" >}}

@@ -34,7 +34,7 @@ social:
     link: https://orcid.org/0000-0001-8562-7627
   - icon: envelope
     icon_pack: fas
-    link:  "/website/author/anne-marie-martinez/#show-email-anne-marie"
+    link: "/author/anne-marie-martinez/#show-email-anne-marie"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -54,4 +54,4 @@ user_groups:
   - Current members
 ---
 
-{{< email_popup user="anne-marie.martinez" domain="igh.cnrs" tld="fr" id="email-anne-marie" path="/website/author/anne-marie-martinez/" >}}
+{{< email_popup user="anne-marie.martinez" domain="igh.cnrs" tld="fr" id="email-anne-marie" path="/author/anne-marie-martinez/" >}}

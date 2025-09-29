@@ -35,7 +35,7 @@ social:
     link: https://orcid.org/0000-0003-4740-5542
   - icon: envelope
     icon_pack: fas
-    link: "/website/author/davide-normanno/#show-email-davide"
+    link: "/author/davide-normanno/#show-email-davide"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -55,4 +55,4 @@ user_groups:
   - Current members
 ---
 
-{{< email_popup user="davide.normanno" domain="igh.cnrs" tld="fr" id="email-davide" path="/website/author/davide-normanno/" >}}
+{{< email_popup user="davide.normanno" domain="igh.cnrs" tld="fr" id="email-davide" path="/author/davide-normanno/" >}}
