@@ -1,6 +1,6 @@
 ---
 title: 'We’re launching our new website!'
-subtitle: 'The Cavalli lab now has its own website!'
+subtitle: 'The Cavalli lab now has its own website! Thanks Vincent!'
 date: 2025-09-29
 image:
   focal_point: 'top'
