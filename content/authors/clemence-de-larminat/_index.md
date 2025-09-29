@@ -51,4 +51,4 @@ user_groups:
   - Current members
 ---
 
-{{< email_popup user="clemence.delarminat" domain="igh.cnrs" tld="fr" id="email-clemence" path="/author/clemence-de-larminat/" >}}
+{{< email_popup user="clemence.de-larminat" domain="igh.cnrs" tld="fr" id="email-clemence" path="/author/clemence-de-larminat/" >}}
