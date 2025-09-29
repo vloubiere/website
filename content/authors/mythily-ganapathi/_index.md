@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Mithily Ganapathi
+title: Mythily Ganapathi
 
 # Full Name (for SEO)
-first_name: Mithily  
+first_name: Mythily  
 last_name: Ganapathi
 
 # Is this the primary user of the site?
