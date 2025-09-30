@@ -10,7 +10,8 @@ sections:
       title:
       subtitle: 
       text: |
-        <img class="tiny-banner-center" src="media/Cavalli_v2_landscape_cropped_tiny.png" alt="Banner image">
+        <h1 class="visually-hidden">Cavalli Lab — Chromatin and Epigenetics, IGH/CNRS, Montpellier</h1>
+        <img class="tiny-banner-center" src="media/Cavalli_v2_landscape_cropped_tiny.png" alt="Cavalli lab banner">
     design:
       columns: '1'
       background:
