@@ -19,8 +19,8 @@ marketing:
   seo:
     site_type: Lab site
     local_business_type: ''
-    org_name: ''
-    description: 'Website of the Cavalli lab, IGH, Montpellier, France'
+    org_name: 'Cavalli lab'
+    description: 'Website of the Cavalli lab at IGH/CNRS (UMR9002), Montpellier, France'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -28,7 +28,7 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'google-site-verification=ITTaynnXt5NLMe3772j_qSbZwC4WMaEAz61bfI1MwnM'
     baidu: ''
 
 # Site header
