@@ -10,7 +10,7 @@ last_name: Chang
 superuser: false
 
 # Role/position
-role: Bio-informatician
+role: Now Associate professor (National Chengchi University, Taipei)
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ last_name: Leblanc
 superuser: false
 
 # Role/position
-role: Bio-informatician
+role: Now Senior Bioinformatics Scientist at VIAOMICS
 
 # Organizations/Affiliations
 organizations:

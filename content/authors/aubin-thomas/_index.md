@@ -10,7 +10,7 @@ last_name: Thomas
 superuser: false
 
 # Role/position
-role: Bio-informatician
+role: Now ITA at IGH
 
 # Organizations/Affiliations
 organizations:
