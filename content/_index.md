@@ -10,7 +10,7 @@ sections:
       title:
       subtitle: 
       text: |
-        <h1 class="visually-hidden">Cavalli Lab — Chromatin and Epigenetics, IGH/CNRS, Montpellier</h1>
+        <h1 class="visually-hidden">Cavalli Lab — Chromatin and Epigenetics, IGH, CNRS, UMR9002, Montpellier</h1>
         <img class="tiny-banner-center" src="media/Cavalli_v2_landscape_cropped_tiny.png" alt="Cavalli lab banner">
     design:
       columns: '1'
@@ -31,7 +31,7 @@ sections:
     content:
       title: Research
       text: |
-        Our research aims at understanding epigenetic inheritance, namely the information that is <strong> contained in our chromosomes and transmitted to daughter cells and to future generations beyond the sequence of DNA </strong>. We employ a <strong> wide range of molecular and in vivo approaches </strong> — single-cell omics, super-resolution microscopy, CRISPR editing, genomics, and physical modeling — to uncover how the <strong> 3D epigenome in general, and <strong> Polycomb proteins </strong> in particular, can establish and maintains transcriptional programs in development and disease</strong>. Our main research topics include:
+        The Cavalli lab aims at understanding epigenetic inheritance, namely the information that is <strong> contained in our chromosomes and transmitted to daughter cells and to future generations beyond the sequence of DNA </strong>. We employ a <strong> wide range of molecular and in vivo approaches </strong> — single-cell omics, super-resolution microscopy, CRISPR editing, genomics, and physical modeling — to uncover how the <strong> 3D epigenome in general, and <strong> Polycomb proteins </strong> in particular, can establish and maintains transcriptional programs in development and disease</strong>. Our main research topics include:
 
         <div class="research-flex">
           <div class="research-flex-item left">
