@@ -109,15 +109,6 @@ h6 { font-size: 1rem; }
 }
 
 /* ===== HOME PAGE BUTTON ===== */
-/* Fore referencing */
-.visually-hidden{
-  position:absolute !important;
-  width:1px;height:1px;
-  padding:0;margin:-1px;
-  overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);
-  white-space:nowrap;border:0;
-}
-
 /* CAVALLI LAB homepage button */
 .navbar {
   position: relative;          /* needed for the ::before subtitle */
@@ -142,7 +133,7 @@ h6 { font-size: 1rem; }
   content: "Epigenetic memory in development and cancer";
   position: absolute;
   left: 4vw;              /* matches the inner container gutter */
-  bottom: -5px;
+  bottom: 3px;
   font-size: 0.8rem;
   font-weight: 300;
   opacity: 0.85;
@@ -159,8 +150,8 @@ h6 { font-size: 1rem; }
 
 /* Brand styles (unchanged) */
 .navbar-brand {
+  font-size: 0rem;
   letter-spacing: 0.02em;
-  font-size: 2.5rem;
   font-weight: 300 !important;
   position: relative;
   display: inline-flex;
@@ -170,9 +161,17 @@ h6 { font-size: 1rem; }
 
 /* "Cavalli" prefix in bold */
 .navbar-brand::before {
-  content: "Cavalli";
-  font-weight: 700 !important;
-  margin-right: 0.15em;
+  content: "";
+  display: inline-block;
+  background-image: url("../logos/brand.png");
+  background-repeat: no-repeat;
+  /* Force image to exactly match the box size: */
+  background-size: 277px 70px;
+
+  width: 277px;   /* exact size of the box */
+  height: 70px;   /* exact size of the box */
+  margin-left: 0;
+  margin-top: 15px;
 }
 
 /* IGH logo after the brand */
@@ -183,6 +182,8 @@ h6 { font-size: 1rem; }
   width: 75px;
   height: 50px;
   margin-left: 15px;
+  margin-top: 15px;
+  transform: translateY(-13px); /* adjust +/- as needed */
 }
 
 /* For the mobile phone */
@@ -196,6 +197,15 @@ h6 { font-size: 1rem; }
 }
 
 /* ===== WADDINGTON LANDSCAPE BANNER ===== */
+/* Add a h1 (yet hidden) title for SEO/referencing */
+.visually-hidden{
+  position:absolute !important;
+  width:1px;height:1px;
+  padding:0;margin:-1px;
+  overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);
+  white-space:nowrap;border:0;
+}
+
 /* Banner shell: always 96vw with 2vw margins */
 /* Banner shell: 2vw white gutters, dark sides behind when >2000px */
 .tiny-banner {

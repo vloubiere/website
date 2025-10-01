@@ -17,10 +17,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: Lab site
+    site_type: Research lab website
     local_business_type: ''
     org_name: 'Cavalli lab'
-    description: 'Website of the Cavalli lab at IGH/CNRS (UMR9002), Montpellier, France'
+    description: 'Website of the Cavalli Lab | Chromatin & Epigenetics | IGH CNRS UMR9002, Montpellier'
     twitter: ''
   analytics:
     google_analytics: ''

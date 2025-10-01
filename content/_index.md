@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Cavalli
+title:
 date: 2022-10-24
 type: landing
 
@@ -10,8 +10,8 @@ sections:
       title:
       subtitle: 
       text: |
-        <h1 class="visually-hidden">Cavalli Lab — Chromatin and Epigenetics, IGH, CNRS, UMR9002, Montpellier</h1>
-        <img class="tiny-banner-center" src="media/Cavalli_v2_landscape_cropped_tiny.png" alt="Cavalli lab banner">
+        <h1 class="visually-hidden">Cavalli Lab | Chromatin & Epigenetics | IGH CNRS UMR9002, Montpellier</h1>
+        <img class="tiny-banner-center" src="media/Cavalli_v2_landscape_cropped_tiny.png" alt="Cavalli lab">
     design:
       columns: '1'
       background:
@@ -60,7 +60,7 @@ sections:
           </div>
           <div class="research-flex-item right">
             <a href="research/#research_topic_4">
-              <img src="media/microscopy.png" alt="Methods used in our lab">
+              <img src="media/microscopy.png" alt="Methods used in the Cavalli lab">
               <div class="research-grid-caption">
                 Methods used in our lab
               </div>
