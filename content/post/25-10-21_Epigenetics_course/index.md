@@ -1,5 +1,5 @@
 ---
-title: "11th IGH WORKSHOP ON EPIGENETICS (Nov. 03)!"
+title: "11th IGH WORKSHOP ON EPIGENETICS!"
 subtitle: 'November 03-10-2025: Genopolys, Montpellier'
 date: 2025-10-21
 image:
