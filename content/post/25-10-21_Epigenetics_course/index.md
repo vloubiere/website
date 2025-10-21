@@ -1,11 +1,13 @@
 ---
-title: 'Annoucing the 11th IGH WORKSHOP ON EPIGENETICS!'
+title: "Announcing IGH's 11th WORKSHOP ON EPIGENETICS (Nov. 03)!"
 subtitle: 'November 03-10-2025: Genopolys, Montpellier'
 date: 2025-10-21
 image:
   focal_point: 'top'
 share: false  
-authors: ["giacomo-cavalli"]  # slugs of author profiles
+authors:
+  - "Charlène"
+  - giacomo-cavalli
 show_author: false
 ---
 
