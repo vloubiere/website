@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to our new Postdoc Marco!'
-subtitle: 'Who will work on the role of epigenetic memory in fly cancer models!'
+subtitle: 'He will be working on the role of epigenetic memory in fly cancer models!'
 date: 2025-11-05
 image:
   focal_point: 'top'
@@ -11,7 +11,7 @@ show_author: true
 ---
 
 <!--more-->
-I obtained my PhD in Biochemistry at the Instituto de Biotecnología (UNAM, Mexico), where I studied the trithorax-group protein Tonalli A (TnaA), a SUMO E3 ligase that regulates the expression of Hox genes during Drosophila development.
+Marco obtained his PhD in Biochemistry at the Instituto de Biotecnología (UNAM, Mexico), where he studied the trithorax-group protein Tonalli A (TnaA), a SUMO E3 ligase that regulates the expression of Hox genes during Drosophila development.
 
 
-My project in the lab aims to understand whether transient disruptions of Polycomb-mediated epigenetic memory can trigger brain tumor formation in Drosophila, using approaches such as inhibition of Polycomb function or alteration of Polycomb nuclear condensates. A central goal is to understand how these perturbations promote cancer by destabilizing transcriptional programs and disrupting epigenetic memory.
+His project in the lab aims at understanding whether transient disruptions of Polycomb-mediated epigenetic memory can trigger brain tumor formation in Drosophila, using approaches such as inhibition of Polycomb function or alteration of Polycomb nuclear condensates. A central goal is to understand how these perturbations promote cancer by destabilizing transcriptional programs and disrupting epigenetic memory.
