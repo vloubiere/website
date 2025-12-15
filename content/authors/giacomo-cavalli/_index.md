@@ -33,14 +33,12 @@ interests:
 
 education:
   courses:
-    - course: Postdoc
-      institution: University of Heidelberg, in the lab of Prof. Renato Paro.
-      year: 1995-1999
-    - course: PhD in Biology
-      institution: Swiss Federal Institute of Technology (ETH), Zurich, Fritz Thoma and Theo Koller
-      year: 1991-1995
-    - course: MSc in Biology
-      institution: University of Parma, Italy
+    - course: PhD in Biochemistry  
+      institution: Instituto de Biotecnología, Universidad Nacional Autónoma de México
+      year: 2017-2024
+    - course: Master in Biochemistry
+      institution: Universidad Nacional Autónoma de México
+      year: 2014-2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
