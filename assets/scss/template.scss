@@ -389,6 +389,13 @@ strong, b, .research-bold {
   margin-top: 0.5rem !important;
 }
 
+.home-section.wg-collection .card-simple.view-card img.article-banner {
+  aspect-ratio: auto;
+  height: 160px;
+  object-fit: cover;         /* still crops, but less aggressive */
+  object-position: 50% 20%;  /* shift crop upward/downward */
+}
+
 /* ===== HOMEPAGE PUBLICATIONS ===== */
 /* Disable only the publication TITLE link, keep PDFs/buttons clickable */
 .pub-list-item a[href*="/publication/"]:not([href$=".pdf"]):not([href*=".pdf?"]):not([href*="/files/"]):not(.btn) {
