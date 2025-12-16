@@ -389,13 +389,11 @@ strong, b, .research-bold {
   margin-top: 0.5rem !important;
 }
 
-/* Fix "zoomed face" in HOME News cards only */
 .home-section.wg-collection .card-simple.view-card img.article-banner {
-  aspect-ratio: auto;        /* stop forcing square crop */
-  height: 160px;             /* make preview smaller */
-  object-fit: contain;       /* no zoom */
-  object-position: center;   /* irrelevant for contain but fine */
-  background: #f5f5f5;       /* optional: letterbox background */
+  aspect-ratio: auto;
+  height: 160px;
+  object-fit: cover;         /* still crops, but less aggressive */
+  object-position: 50% 20%;  /* shift crop upward/downward */
 }
 
 /* ===== HOMEPAGE PUBLICATIONS ===== */
