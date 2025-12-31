@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to our new Postdoc Marco!'
-subtitle: 'He will be working on the role of epigenetic memory in fly cancer models!'
+subtitle: 'Marco will work on the role of epigenetic memory in fly cancer models!'
 date: 2025-12-15
 image:
   focal_point: 'top'

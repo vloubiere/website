@@ -21,7 +21,7 @@ organizations:
 bio: ''
 
 interests:
-  - Prix Jacqueline Godet (CNRS biologie, 2025)
+  - Prix Jacqueline Godet (2025)
   - HFSP postdoc fellowship
   - EMBO postdoc fellowship
 
@@ -66,6 +66,6 @@ user_groups:
 
 {{< email_popup user="vincent.loubiere" domain="igh.cnrs" tld="fr" id="email-vincent" path="/author/vincent-loubiere/" >}}
 
-I did my PhD in the lab of Giacomo Cavalli (IGH, Montpellier), where I combined Drosophila genetics, genomics, and bioinformatic approaches to study the role of Polycomb-group epigenetic factors in tumorigenesis. This sparked my interest in how cis-regulatory information is encoded in DNA sequence, which led me to pursue a postdoc in the lab of Alex Stark (IMP, Vienna), where I investigated how multiple transcriptional enhancer elements cooperate to activate their target gene. During this work, I specialized in DNA sequence and Transcription Factor binding motif analysis  using machine learning methods.
+I did my PhD in the lab of Giacomo Cavalli (IGH, Montpellier), where I combined Drosophila genetics, genomics, and bioinformatic approaches to study the role of Polycomb-group epigenetic factors in tumorigenesis. This sparked my interest in how cis-regulatory information is encoded in DNA sequence, which led me to pursue a postdoc in the lab of Alex Stark (IMP, Vienna), where I investigated how multiple transcriptional enhancer elements cooperate to activate their target gene. During this work, I specialized in DNA sequence analysis and Transcription Factor binding motif analysis using machine learning methods.
 
 My current research project aims to dissect the cascade of transcriptional events underlying the initiation and long-term maintenance of epigenetically initiated cancers, using Drosophila melanogaster as a model.
