@@ -1,7 +1,7 @@
 ---
 title: 'Welcome back, Vincent!'
 subtitle: 'After a postdoc in the Stark lab (IMP, Vienna), Vincent is back to work on our epigenetic cancer model.'
-date: 2025-12-31
+date: 2026-01-01
 image:
   focal_point: 'top'
 share: false  
