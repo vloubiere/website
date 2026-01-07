@@ -1,6 +1,6 @@
 ---
 title: 'Bravo Solène!'
-subtitle: 'Solène was recruited this year at the CNRS as "ingénieurs d’études"!'
+subtitle: 'Solène was recruited this year at the CNRS as "ingénieur d’études"!'
 date: 2026-01-06
 image:
   focal_point: 'top'
@@ -11,4 +11,4 @@ show_author: true
 ---
 
 <!--more-->
-Congratulation! We are very excited to collaborate with you in the coming years!
+We are very excited to collaborate with you in the coming years!
