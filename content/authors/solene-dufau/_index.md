@@ -10,7 +10,7 @@ last_name: Dufau
 superuser: false
 
 # Role/position
-role: ITA
+role: IE
 
 # Organizations/Affiliations
 organizations:
