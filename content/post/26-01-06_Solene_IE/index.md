@@ -5,7 +5,7 @@ date: 2026-01-06
 image:
   focal_point: 'top'
 share: false  
-authors: ["vincent-loubiere"]  # slugs of author profiles
+authors: ["solene-dufau"]  # slugs of author profiles
 author_notes:
 show_author: true
 ---
