@@ -3,7 +3,7 @@ title: 'Welcome to our new Postdoc Marco!'
 subtitle: 'Marco will work on the role of epigenetic memory in fly cancer models!'
 date: 2025-12-15
 image:
-  focal_point: 'top'
+  focal_point: 'center'
 share: false  
 authors: ["marco-rosales-verda"]  # slugs of author profiles
 author_notes:
