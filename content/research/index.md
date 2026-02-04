@@ -151,6 +151,12 @@ sections:
       text: |
         <h2 class="anchor-target">More Research Videos</h2>
         <div class="research-video-grid">
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/watch?v=VtmWJDiSLho&t=5s"
+                    frameborder="0"
+                    allowfullscreen
+                    title="Cavalli Lab Research Video 0"></iframe>
+          </div>
           <div class="video-container">
             <iframe src="https://www.youtube.com/embed/HFtGxda3I8E"
                     frameborder="0"
