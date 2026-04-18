@@ -1,7 +1,7 @@
 ---
 title: 'Welcome to our new Engineer Eloïse!'
 subtitle: 'She will collaborate with us on several ongoing project.'
-date: 2026-01-08
+date: 2026-04-15
 image:
   focal_point: 'center'
 share: false  
