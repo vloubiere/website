@@ -10,7 +10,7 @@ last_name: Fritsch
 superuser: false
 
 # Role/position
-role: ITA
+role: Now ITA in the Lagha lab @ IGMM
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +51,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current members
+  - ITA
 ---
 
 {{< email_popup user="lauriane.fritsch" domain="igh.cnrs" tld="fr" id="email-lauriane" path="/author/lauriane-fritsch/" >}}
