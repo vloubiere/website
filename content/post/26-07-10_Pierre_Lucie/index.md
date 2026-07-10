@@ -10,7 +10,6 @@ author_notes:
 show_author: true
 ---
 
-Abstract:
-Congrats to Lucie Muller and to Pierre Paumard, winning PhD fellowships to join the lab at the end of summer. Welcome to the lab! we look forward to fantastic science and a great time with you! 
-
 <!--more-->
+
+Congrats to Lucie Muller and to Pierre Paumard, winning PhD fellowships to join the lab at the end of summer. Welcome to the lab! we look forward to fantastic science and a great time with you! 
