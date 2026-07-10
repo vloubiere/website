@@ -5,7 +5,7 @@ date: 2026-04-15
 image:
   focal_point: 'top'
 share: false  
-authors: ["eloise-berst"]  # slugs of author profiles
+authors: ["giacomo-cavalli"]  # slugs of author profiles
 author_notes:
 show_author: true
 ---
