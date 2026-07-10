@@ -1,5 +1,5 @@
 ---
-title: 'Welcoming our new PhD studenrts, Lucie and Pierre!'
+title: 'Welcome to Lucie and Pierre, our new PhD students!'
 subtitle: 'Congrats for winning PhD fellowships ;)'
 date: 2026-06-10
 image:
