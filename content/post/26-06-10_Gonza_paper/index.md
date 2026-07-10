@@ -1,5 +1,5 @@
 ---
-title: 'A looping code for chromatin looping?'
+title: 'A protein code for chromatin looping?'
 subtitle: 'Congrats Gonzalo for this exciting paper!'
 date: 2026-06-10
 image:
