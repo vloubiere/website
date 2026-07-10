@@ -11,9 +11,9 @@ sections:
       subtitle: ''
       text: |
         <h3>Lab outing June 2026</h3>
-        <img src="/media/2026_saintGuilhem.jpg"
+        <img src="/media/2026_saintGuilhem.jpeg"
         <img src="/media/2026_clamouse.jpg"
-        <img src="/media/2026_moureze.jpg"
+        <img src="/media/2026_moureze.jpeg"
         alt="Summer 2026"
         style="display:block; margin:0 auto; max-width:1200px; width:100%; height:auto;">
         <h3>Christmas doors 2025</h3>
