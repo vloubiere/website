@@ -10,28 +10,22 @@ sections:
       title: Events & Outings
       subtitle: ''
       text: |
+        <center>
         <h3>Lab outing June 2026</h3>
-        <br>
-        <img
-          src="/media/2026_saintGuilhem.jpeg"
-          alt="Lab outing June 2026 at Saint-Guilhem"
-          style="display:block; margin:0 auto; max-width:1200px; width:100%; height:auto;"
-        >
-        <img
-          src="/media/2026_clamouse.jpg"
-          alt="Lab outing June 2026 at Clamouse"
-          style="display:block; margin:0 auto; max-width:1200px; width:100%; height:auto;"
-        >
-        <img
-          src="/media/2026_moureze.jpeg"
-          alt="Lab outing June 2026 at Mourèze"
-          style="display:block; margin:0 auto; max-width:1200px; width:100%; height:auto;"
-        >
+
+        <img src="/media/2026_saintGuilhem.jpeg" alt="Lab outing June 2026 at Saint-Guilhem" width="100%">
+        <br><br>
+
+        <img src="/media/2026_clamouse.jpg" alt="Lab outing June 2026 at Clamouse" width="100%">
+        <br><br>
+
+        <img src="/media/2026_moureze.jpeg" alt="Lab outing June 2026 at Mourèze" width="100%">
+        <br><br>
+
         <h3>Christmas doors 2025</h3>
-        <br>
-        <img src="/media/2025_christmas_doors.jpg"
-        alt="Christmas 2025"
-        style="display:block; margin:0 auto; max-width:1200px; width:100%; height:auto;">
+
+        <img src="/media/2025_christmas_doors.jpg" alt="Christmas 2025" width="100%">
+        </center>
     design:
       columns: '1'
       background:
