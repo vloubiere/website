@@ -10,11 +10,11 @@ last_name: Popmihaylova
 superuser: false
 
 # Role/position
-role: PhD. student
+role: Now postdoc in Peters's lab @ FMI
 
 # Organizations/Affiliations
 organizations:
-  - name: Institute of Human Genetics, UMR9002
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,12 +29,12 @@ education: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: external-link-alt
+    icon_pack: fas
+    link: "https://www.fmi.ch/research-groups/groupleader.html?group=41"
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-5081-4326
-  - icon: envelope
-    icon_pack: fas
-    link: "/author/ana-maria-popmihaylova/#show-email-ana-maria"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -51,7 +51,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Current members
+  - PhD
 ---
 
 {{< email_popup user="ana-maria.popmihaylova" domain="igh.cnrs" tld="fr" id="email-ana-maria" path="/author/ana-maria-popmihaylova/" >}}
