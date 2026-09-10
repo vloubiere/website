@@ -5,7 +5,7 @@ date: 2026-09-10
 image:
   focal_point: 'center'
 share: false  
-authors: ["nazli-akilli", "marco-di-stefano", "thierry-cheutin", "giacomo-cavalli"]  # slugs of author profiles
+authors: ["nazli-akilli", "marco-di-stefano", "thierry-cheutin", "giacomo-cavalli", "cristina-fracassi"]  # slugs of author profiles
 author_notes:
 show_author: true
 ---
