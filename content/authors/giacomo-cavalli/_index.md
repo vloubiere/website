@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Giacomo Cavalli
-slug: giacomo-cavalli
 
 # Full Name (for SEO)
 first_name: Giacomo

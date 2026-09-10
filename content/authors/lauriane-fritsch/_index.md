@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Lauriane Fritsch
-slug: lauriane-fritsch
 
 # Full Name (for SEO)
 first_name: Lauriane
