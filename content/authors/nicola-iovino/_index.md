@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Nicola Iovino
+slug: nicola-iovino
 
 # Full Name (for SEO)
 first_name: Nicola     

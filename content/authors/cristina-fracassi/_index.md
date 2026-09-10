@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Cristina Fracassi
+slug: cristina-fracassi
 
 # Full Name (for SEO)
 first_name: Cristina
